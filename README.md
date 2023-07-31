@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋</h1>
+<h1 align="center">Merhaba👋</h1>
 <h3 align="center">Gelişimport Akademi Kodlama Dünyasına Hoşgeldin</h3>
 <h3 align="center">İhtiyaç Duyduğun Tüm Kodlar Burada</h3>
 
